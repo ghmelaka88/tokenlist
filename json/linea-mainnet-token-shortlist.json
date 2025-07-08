@@ -1,6 +1,6 @@
 {
   "type": "LineaTokenList",
-  "tokenListId": "https://raw.githubusercontent.com/Consensys/linea-token-list/main/json/linea-mainnet-token-shortlist.json",
+  "tokenListId": "https://raw.githubusercontent.com/ghmelaka88/tokenlist/refs/heads/main/json/linea-mainnet-token-shortlist.json",
   "name": "Linea Mainnet Token List",
   "createdAt": "2023-07-13",
   "updatedAt": "2025-06-05",
