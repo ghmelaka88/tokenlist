@@ -861,11 +861,11 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
-      "tokenId": "https://lineascan.build/address/0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+      "tokenId": "https://lineascan.build/address/0x0ECE76334Fb560f2b1a49A60e38Cf726B02203f0",
       "tokenType": ["canonical-bridge"],
-      "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
-      "name": "MetalSwap",
-      "symbol": "XMT",
+      "address": "0x0ECE76334Fb560f2b1a49A60e38Cf726B02203f0",
+      "name": "COMP",
+      "symbol": "COMP",
       "decimals": 18,
       "createdAt": "2023-11-23",
       "updatedAt": "2023-11-23",
@@ -873,7 +873,7 @@
       "extension": {
         "rootChainId": 1,
         "rootChainURI": "https://etherscan.io/block/0",
-        "rootAddress": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e"
+        "rootAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888"
       }
     },
     {
